@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Keshav Aggarwal
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23DA70D6&size=30&lines=I+am+interested+in+Web+Dev;Software+and+UI/UX+Designing)](https://git.io/typing-svg)
+
 🎓 B.Tech Computer Engineering | Thapar Institute of Engineering and Technology (2024–Present)  
 📍 Patiala, India | 📧 ka9812204392@gmail.com | 📱 +91-9812204392  
 🔗 [LinkedIn](https://linkedin.com/in/agg-keshav) | [GitHub](https://github.com/k-keshav-aggarwal)
