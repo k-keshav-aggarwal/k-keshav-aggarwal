@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keshav Aggarwal
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23DA70D6&size=30&lines=I+am+interested+in+Web+Dev;Software+and+UI/UX+Designing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23DA70D6&size=30&lines=I+am+interested+in+Web+Dev;Software+and+UI/UX+Designing;Freelancing+Projects)](https://git.io/typing-svg)
 
 🎓 B.Tech Computer Engineering | Thapar Institute of Engineering and Technology (2024–Present)  
 📍 Patiala, India | 📧 ka9812204392@gmail.com | 📱 +91-9812204392  
@@ -34,13 +34,13 @@ With experience leading R&D teams, organizing developer events, and building dyn
 - 🔬 **R&D Team Lead** @ *StudifySuccess*  
   Managing intern teams and contributing to backend & Discord integration projects
 
-- 📣 **Executive Member** @ *Microsoft Learn Student Chapter – TIET*  
-  PR, marketing, and content creation for student-led developer events
-
 ---
 
 ## 🚀 Projects
 
+- **🧾 Spiele Zone by Shadowveil StudioZ**  
+  Discover a collection of fun and engaging web-based games to play and enjoy.
+  
 - **🌐 Personal Portfolio**  
   React + TypeScript dev profile showcasing my work and contact info
 
