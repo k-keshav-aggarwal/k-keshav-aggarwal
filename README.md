@@ -29,7 +29,7 @@ With experience leading R&D teams, organizing developer events, and building dyn
 
 ---
 
-## 🧠 Current Roles
+## 🧠 Experience
 
 - 🔬 **R&D Team Lead** @ *StudifySuccess*  
   Managing intern teams and contributing to backend & Discord integration projects
